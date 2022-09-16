@@ -1,1 +1,1 @@
-# yolo-image
+# stats-image
